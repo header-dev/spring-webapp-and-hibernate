@@ -40,6 +40,17 @@ B3: Identifies correct View
 B4: Executes View
 
 
+## Todo
+
+id
+username
+description
+targetDate
+done
+
+TodoController
+listTodos.jsp
+
 
 
 
