@@ -1,10 +1,7 @@
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Welcome</title>
-</head>
-<body>
-	<div>Welcome to Spring Web Application</div>
-	<div>Your Name : ${name}</div>
-</body>
-</html>
+<%@ include file="common/header.jspf"%>
+<%@ include file="common/navigation.jspf"%>
+	<div class="container">
+		<h1>Welcome ${name}</h1>
+		<a href="list-todos">Manage</a> your todos
+	</div>
+<%@ include file="common/footer.jspf"%>

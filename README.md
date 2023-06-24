@@ -51,6 +51,15 @@ done
 TodoController
 listTodos.jsp
 
+## Request vs Model vs Session
+
+/META-INF/resourses/webjars/
+bootstrap/5.1.3/css/
+bootstrap.min.css
+
+/META-INF/resourses/webjars/
+bootstrap/3.6.4/js/
+bootstrap.min.js
 
 
 
