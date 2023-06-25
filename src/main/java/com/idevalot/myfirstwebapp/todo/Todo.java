@@ -7,7 +7,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 import jakarta.validation.constraints.Size;
 
-@Entity
+@Entity(name = "todos")
 public class Todo {
 
 	public Todo() {
